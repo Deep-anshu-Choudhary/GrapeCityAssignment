@@ -1,0 +1,11 @@
+(1)Check that the local disk have enough space.
+(2)Verify that the app does not stop the functioning of other apps.
+(3)check that the image is of which type.
+(4)Check that the application can save images in different formats.
+(5)verify the limit of images.
+(6)Check for the backup for images.
+(7)Check that the app goes into the background when other app is running.
+(8)Check that the app gives notification when images are stored locally.
+(9)Check that the app gives warning of shortage of space.
+(10)Verify that the internet connnection is stable.
+(11)Check that the app is still working as intended after the successful update of the app.
